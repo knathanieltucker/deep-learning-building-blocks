@@ -10,11 +10,11 @@ On a final note, because I feel that there are already pretty decent tutorials o
 
 The order in which these tutorials go is as follows:
 
-1. [Tabular Data]()
-2. [Categorical Data]()
-3. [Variable Length Features]()
-4. [Ordered Variable Length Features]()
-5. [Real World Example]()
+1. [Tabular Data](https://github.com/knathanieltucker/deep-learning-building-blocks/blob/master/notebooks/Tabular%20Data.ipynb)
+2. [Categorical Data](https://github.com/knathanieltucker/deep-learning-building-blocks/blob/master/notebooks/Categorical%20Data.ipynb)
+3. [Variable Length Features](https://github.com/knathanieltucker/deep-learning-building-blocks/blob/master/notebooks/Variable%20Length%20Features.ipynb)
+4. [Ordered Variable Length Features](https://github.com/knathanieltucker/deep-learning-building-blocks/blob/master/notebooks/Ordered%20Variable%20Length%20Features.ipynb)
+5. [Real World Example](https://github.com/knathanieltucker/deep-learning-building-blocks/blob/master/notebooks/Real%20World%20Example.ipynb)
 
 ## Installing What You'll Need
 
