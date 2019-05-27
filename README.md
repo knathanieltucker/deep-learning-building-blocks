@@ -22,7 +22,7 @@ The first step to get running with these tutorials is to install virtualenv. For
 
 Once you have installed virtualenv let's make an enviornment with the following command:
 
-`virtualenv env`
+`virtualenv -p python3 env`
 
 You will want to be using python 3.6, so please make sure your enviornment is running it.
 
