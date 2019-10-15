@@ -38,3 +38,6 @@ Finally the last step is to run an ipython notebook from within the env and then
 
 `ipython notebook`
 
+## Other Downloads
+
+Downloading the [Kaggle Recipe Ingredients Dataset](https://www.kaggle.com/kaggle/recipe-ingredients-dataset) will be necessary for the final notebook.
